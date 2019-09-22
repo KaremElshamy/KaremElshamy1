@@ -18,14 +18,14 @@ Ver: 1.0
 -------------------------
 This Tool By KaremElshamy
 -------------------------
-==========================================
-00. Turn your Android into Hacking Machine.
-------------------------------------------
-1. Install Nmap 
-2. Install Hydra
-3. Install SQLMap
-4. Install Metasploit
-5. Install ngrok
+================================================
+00.Hacking And Checking emails By Karem Elshamy.
+------------------------------------------------
+1. Check Hotmails Email 
+2. Check Yahoo Emails
+3. Hack Facebook Accounts
+4. Close facebook profiles
+5. Hack InsTa Acc
 6. Install Kali Nethunter
 7. Install angryFuzzer
 8. Install Red_Hawk
@@ -34,7 +34,7 @@ This Tool By KaremElshamy
 11. Install Cupp
 12. Instagram Bruteforcer (instahack)
 13. Twitter Bruteforcer   (TwitterSniper)
-14. Install Ubuntu
+14. Install Paypal Accounts 100$ By karemElshamy
 15. Install Fedora
 16. Install viSQL
 17. Install Hash-Buster
