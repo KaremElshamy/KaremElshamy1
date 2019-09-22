@@ -12,6 +12,9 @@ def menu():
 ....##.....#######...#######..########..######...######.
 ==============================
 00.HackTools And EmailsChecker
+This Tools By KaremElshamy
+Facebook: KaremElshamy 
+Version:1.0
 ------------------------------
 1.  Check Hotmails Email 
 2.  Check Yahoo Emails
@@ -26,8 +29,8 @@ def menu():
 11. Install Cupp
 12. Instagram Bruteforcer (instahack)
 13. Twitter Bruteforcer   (TwitterSniper)
-14. Install Paypal Accounts 100$ By karemElshamy
-15. Install Fedora
+14. Install Paypal Accounts 100$
+15. Install Fedore
 16. Install viSQL
 17. Install Hash-Buster
 18. Install D-TECT
