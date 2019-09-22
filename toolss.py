@@ -10,12 +10,12 @@ def menu():
 ....##....##.....##.##.....##.##.............##.......##
 ....##....##.....##.##.....##.##.......##....##.##....##
 ....##.....#######...#######..########..######...######.
-==============================
-00.HackTools And EmailsChecker
+===========================
+00.HackTools&EmailsChecker
 This Tools By KaremElshamy
-Facebook: KaremElshamy 
+Facebook:KaremElshamy 
 Version:1.0
-------------------------------
+---------------------------
 1.  Check Hotmails Email 
 2.  Check Yahoo Emails
 3.  Hack Facebook Accounts
