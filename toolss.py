@@ -10,17 +10,9 @@ def menu():
 ....##....##.....##.##.....##.##.............##.......##
 ....##....##.....##.##.....##.##.......##....##.##....##
 ....##.....#######...#######..########..######...######.
-========================================
-Created By KaremElshamy
-Insta: @KaremElshamy9
-Facebook: https://www.facebook.com/obaayaa.buabeng
-Ver: 1.0
--------------------------
-This Tool By KaremElshamy
--------------------------
-================================================
-00.Hacking And Checking emails By Karem Elshamy.
-------------------------------------------------
+===============================
+Hack Tools By Karem Elshamy.
+-------------------------------
 1.  Check Hotmails Email 
 2.  Check Yahoo Emails
 3.  Hack Facebook Accounts
