@@ -13,7 +13,6 @@ def menu():
 ===========================
 00.HackTools&EmailsChecker
 This Tools By KaremElshamy
-Facebook:KaremElshamy 
 Version:1.0
 ---------------------------
 1.  Check Hotmails Email 
