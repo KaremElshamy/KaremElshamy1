@@ -11,7 +11,7 @@ def menu():
 ....##....##.....##.##.....##.##.......##....##.##....##
 ....##.....#######...#######..########..######...######.
 ===============================
-Hack Tools By Karem Elshamy.
+Hack Tools And Emails Checker [KaremElshamy].
 -------------------------------
 1.  Check Hotmails Email 
 2.  Check Yahoo Emails
