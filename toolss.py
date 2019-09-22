@@ -1,6 +1,5 @@
 import os
 
-
 def menu():
 
     print(""" 
@@ -11,25 +10,32 @@ def menu():
 ....##....##.....##.##.....##.##.............##.......##
 ....##....##.....##.##.....##.##.......##....##.##....##
 ....##.....#######...#######..########..######...######.
-==========================
-00.HackTools&EmailsChecker
-This Tools By KaremElshamy
---------------------------
-1.  Check Hotmails Email 
-2.  Check Yahoo Emails
-3.  Hack Facebook Accounts
-4.  Close facebook profiles
-5.  Hack InsTa Acc
-6.  Install Kali Nethunter
-7.  Install angryFuzzer
-8.  Install Red_Hawk
-9.  Install Weeman
+========================================
+Created By KaremElshamy
+ToolsNumber:19
+Facebook:https:facebook/obaayaa.buabeng
+Ver: 1.0
+----
+ONLY FOR Hacking!
+----
+==========================================
+00. This Tools By Karem Elshamy#$#$#$#$#$.
+------------------------------------------
+1. Check Yahoo 
+2. Check Hotmail
+3. Install SQLMap
+4. Install Metasploit
+5. Install ngrok
+6. Install Kali Nethunter
+7. Install angryFuzzer
+8. Install Red_Hawk
+9. Install Weeman
 10. Install IPGeoLocation
-11. Install Cupp
+11. Hack Facebook Accounts
 12. Instagram Bruteforcer (instahack)
 13. Twitter Bruteforcer   (TwitterSniper)
-14. Install Paypal Accounts 100$
-15. Install Fedore
+14. Install Ubuntu
+15. Install Fedora
 16. Install viSQL
 17. Install Hash-Buster
 18. Install D-TECT
